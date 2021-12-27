@@ -1,18 +1,8 @@
 {
-    "env": {
-        "browser": true,
-        "es2021": true
-    },
-    "extends": [
-        "standard"
-    ],
-    "globals": {
-        "use": true
-    },
-    "parserOptions": {
-        "ecmaVersion": 13,
-        "sourceType": "module"
-    },
-    "rules": {
-    }
+  "extends": "standard",
+  "globals": {
+    "use": true
+  },
+  "quotes": "off",
+  "@ typescript-eslint / quotes": ["error"]
 }
