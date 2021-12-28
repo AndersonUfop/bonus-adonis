@@ -156,6 +156,15 @@
     "haye" "^2.0.1"
     "lodash" "^4.17.5"
 
+"@adonisjs/validator@^5.1.0":
+  "integrity" "sha512-qz4YNfg89MzqfgluMuM1Wq7GSTOd3h2x0rn+cXT8rnva3jkgiWDaqstMSCNAelB3A2KiujbsxZk/HR0k5o9Zkg=="
+  "resolved" "https://registry.npmjs.org/@adonisjs/validator/-/validator-5.1.0.tgz"
+  "version" "5.1.0"
+  dependencies:
+    "@adonisjs/generic-exceptions" "^2.0.1"
+    "indicative" "^5.0.8"
+    "lodash" "^4.17.11"
+
 "@babel/code-frame@7.12.11":
   "integrity" "sha512-Zt1yodBx1UcyiePMSkWnU4hPqhwq7hGi2nFL1LeA3EUl+q2LQx16MISgJ0+z7dnmgvP9QtIleuETGOiOH1RcIw=="
   "resolved" "https://registry.npmjs.org/@babel/code-frame/-/code-frame-7.12.11.tgz"
@@ -2041,6 +2050,11 @@
   "integrity" "sha1-Sl/W0nzDMvN+VBmlBNu4NxBckok="
   "resolved" "https://registry.npmjs.org/indent-string/-/indent-string-3.2.0.tgz"
   "version" "3.2.0"
+
+"indicative@^5.0.8":
+  "integrity" "sha512-Do9YKlrxyvK6RpMs9AdtxmjhweKrA6hJbJejY81iD8aYjjvOU4HYkJcM2IUxC3S7ZRm/L11u67QT4OQ101N5HQ=="
+  "resolved" "https://registry.npmjs.org/indicative/-/indicative-5.0.8.tgz"
+  "version" "5.0.8"
 
 "inflation@^2.0.0":
   "integrity" "sha1-i0F+R8KPklpFEz2RTKH9OJEH8w8="
