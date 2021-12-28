@@ -2,7 +2,7 @@
 
 class User {
   get validateAll() {
-    return all;
+    return true;
   }
 
   get rules() {
